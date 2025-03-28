@@ -1,6 +1,8 @@
 const users = {
-    "admin": "1234",
-    "user": "abcd"
+    "rodzynka": "kebab1",
+    "Fafik": "kebab2",
+    "kucharz": "kebab3",
+    "MamaMafia": "kebab4"
 };
 
 function login() {
